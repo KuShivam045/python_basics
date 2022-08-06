@@ -8,6 +8,6 @@ while a>0:
     a = a//10
 
 if (sum == copy_a):
-    print(f"{copy_a} is The number is Armstrong number.")
+    print(f"{copy_a} is The number is armstrong number.")
 else:
-    print(f"{copy_a} is not an Armstrong number,")
+    print(f"{copy_a} is not an armstrong number.")
