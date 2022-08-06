@@ -1,0 +1,13 @@
+s = "This is my first python programming class and I am learning string and its functions."
+# print(s[1:30])
+# print(s[::-1])
+# s1 = s.upper()
+# print(s1.split(" "))
+# s1 = s.lower()
+# print(s1)
+# print(s.capitalize())
+# print(s.title())
+# print(s)
+# print(s.expandtabs())
+# print(s.replace("python", "Shivam"))
+print(s.center(200))
